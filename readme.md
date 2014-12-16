@@ -16,6 +16,11 @@ $ npm install -g gh-browse
 
 ## Usage
 
+Open issues the repo:
+```sh
+$ gh-browse
+```
+
 Open issues in browser:
 ```sh
 $ gh-browse issues
