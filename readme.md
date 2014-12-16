@@ -43,6 +43,7 @@ Pull requests are highly accepted.
 - [ ] `gh-browse parent`: must open the parent (if the project is a fork)
 - [ ] `gh-browse <branch>`: must open homepage in a specific branch
 - [ ] `gh-browse wiki`
+- [ ] `gh-browse commits HEAD^1`
 - [ ] Integrate some tests. The initial project was a quick fiddle, but some basic tests might be welcome.
 - [ ] Proper up code. It's needed.
 
