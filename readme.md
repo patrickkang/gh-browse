@@ -4,6 +4,8 @@
 
 Inspired by [Paul Irish and his lazyweb-request](https://github.com/h5bp/lazyweb-requests/issues/25).
 
+Because every README would need a 30-seconds screencast: [check this one](https://www.youtube.com/watch?v=2f4k4XbZy_g&feature=youtu.be).
+
 
 ## Install
 
