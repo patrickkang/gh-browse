@@ -25,6 +25,10 @@ var openGithub = function (url, arg) {
     return open(url + '/pulls');
   }
 
+  if (arg[0] === 'wiki') {
+    return open(url + '/wiki');
+  }
+
   if (arg[0] === 'commits') {
     if (!arg[1]) {
       return open(url + '/commits/master');
